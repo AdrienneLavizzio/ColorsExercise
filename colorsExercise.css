@@ -1,0 +1,32 @@
+/*Color Name*/
+h1 {
+    color: red;
+}
+/*Hexadecimal Color*/
+h2 {
+    color: #0FF0FF;
+}
+/*Hexadecimal Shorthand*/
+h3{
+    color: #16C;
+
+}
+
+/*Hexadecimal Transparency*/
+h4{
+    color: #dddf5500;
+}
+/*Transparency Shorthand*/
+h5{
+    color: #df50;
+}
+
+/*RGB*/
+h6{
+    color: rgb(7, 6,76);
+}
+/*RGBA*/
+p
+{
+    color: rgba(5, 250, 150, 0.6);
+}
